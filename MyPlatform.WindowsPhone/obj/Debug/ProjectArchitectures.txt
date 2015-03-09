@@ -1,0 +1,1 @@
+c:\users\houssem dellai\documents\visual studio 2013\Projects\MyPlatform\MyPlatform.WindowsPhone\MyPlatform.WindowsPhone.csproj;neutral
